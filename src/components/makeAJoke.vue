@@ -1,7 +1,7 @@
 <template>
   <div class="text-center">
     <h2 class="title mb-4">Make me a joke!</h2>
-    <button class="btn joke--btn mb-4" @click="createJoke()">Make me joke</button>
+    <button class="btn joke--btn mb-4" @click="createJoke()">Make me a joke</button>
     <h4 class="joke__setup mb-4">{{ joke.setup }}</h4>
     <div class="d-lg-flex  justify-content-center mb-3" @click="showPunchline()">
       <h5 class="joke__answer">Punchline :</h5>
