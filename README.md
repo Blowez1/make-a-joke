@@ -1,6 +1,6 @@
 # make-a-joke
 
-[](https://i.hizliresim.com/0EN5EO.png)
+![image](https://i.hizliresim.com/0EN5EO.png)
 
 
 > A Vue.js project
